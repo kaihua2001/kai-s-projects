@@ -1,1 +1,1 @@
-# kai-s-projects
+# kai-projects
